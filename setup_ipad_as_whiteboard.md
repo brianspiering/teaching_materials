@@ -9,5 +9,5 @@ Steps to use iPad as whiteboard at same time as slides on Zoom
     1. Switch camera to iPad.
     1. Wait a couple moments…
 4. Your iPad screen should appear as a separate window on Mac. You can move and resize as you see fit. It is a real-time feed of your iPad. 
-5. Slides or any other app can be shown at same time during screen sharing in Zoom.
+5. Slides (or any other app) can be shown at the same time during screen sharing in Zoom.
 5. Start recording to get rid of the Quicktime Player overly menu. 
