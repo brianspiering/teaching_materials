@@ -8,8 +8,15 @@ Pick tools that work for you. Here are the tools that work for me right now:
 
 - Zoom - Video calls that allow for frictionless screen sharing and breakout rooms for small group activities.
 
-- A tablet & stylus - Anything works. A digital whiteboard during a Zoom call (never run out of space or marker!).
+- A tablet & stylus - Anything works. Works as A digital whiteboard during a Zoom call (never run out of space or marker!).
+  - I use [Notability](https://www.gingerlabs.com/)
 
 - repl.it - Everyone can code in the same editor at the same time in almost any language. I often create skeleton code to help student avoid blinking cursor paralysis.
 
 - show.veda.ai - A web app to live stream from the camera on my phone to the web. I prefer physical demos whenever possible. 
+
+- [Web Paint - Google Chrome extension](https://chrome.google.com/webstore/detail/web-paint/emeokgokialpjadjaoeiplmnkjoaegng?hl=en-US) I can annotate almost any website, including Google Presentations.
+
+- [Excalidraw](https://excalidraw.com/) is one of many digitial whiteboards.
+
+
