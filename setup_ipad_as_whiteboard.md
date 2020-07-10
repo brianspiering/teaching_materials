@@ -1,5 +1,7 @@
-Steps to use iPad as whiteboard at same time as slides on Zoom 
+Steps to use an iPad as a whiteboard on Zoom 
 -----
+
+Note: This probably works with any tablet and a Mac. I have not tested it with other setups.
 
 1. Plug in iPad with a physical cable to Mac.
 2. Start whiteboard app on iPad. The built-in Notes app works well.
@@ -8,6 +10,6 @@ Steps to use iPad as whiteboard at same time as slides on Zoom
     1. Select down arrow just to the right of the red record button.
     1. Switch camera to iPad.
     1. Wait a couple moments…
-4. Your iPad screen should appear as a separate window on Mac. You can move and resize as you see fit. It is a real-time feed of your iPad. 
+4. Your iPad screen should appear as a separate window on Mac. It is a real-time feed of your iPad. You can move and resize as you see fit.  
 5. Slides (or any other app) can be shown at the same time during screen sharing in Zoom.
-5. Start recording to get rid of the Quicktime Player overly menu. 
+5. Select any other app than Quicktime Player for the recoding overly menu to disappear. 
