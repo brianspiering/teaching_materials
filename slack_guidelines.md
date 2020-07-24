@@ -10,4 +10,5 @@ Helpful suggestions:
     + Use complete sentences.
     + Do not over use abbreviations. Common business abbreviations are acceptable.
     + All lowercase is acceptable.
+- I use Slack asynchronously, thus do not except an immediate reply or real-time conversation. It might happen but do not except it. 
 - Feel free to [edit your messages](https://slack.com/help/articles/202395258-Edit-or-delete-messages).

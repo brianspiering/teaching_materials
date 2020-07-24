@@ -19,4 +19,6 @@ Pick tools that work for you. Here are the tools that work for me right now:
 
 - [Excalidraw](https://excalidraw.com/) is one of many digitial whiteboards.
 
+- [Miro](https://miro.com/) collaborative whiteboard. 
+
 
