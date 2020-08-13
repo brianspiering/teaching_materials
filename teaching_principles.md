@@ -1,7 +1,9 @@
 Teaching Principles
 -----
 
-> "We are currently preparing students for jobs that don’t yet exist, using technologies that haven’t been invented, in order to solve problems we don’t even know are problems yet."   
+> "We are currently preparing students for jobs that don’t yet exist,  
+> using technologies that haven’t been invented,   
+> in order to solve problems we don’t even know are problems yet."   
 > — Richard Riley
 
 1. Student-centric - What is in the long-term best interest of my students?
