@@ -1,4 +1,4 @@
-Slack Guidelines: A User Guide for Brian on Slack
+A User Guide for Brian on Slack
 -------
 
 Helpful suggestions:
