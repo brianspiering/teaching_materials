@@ -9,7 +9,7 @@ Appropriate classroom behavior is expected. If you won't do it in a physical cla
 1. Remain fully present for the entire session.
 1. Name yourself with your full name.
 1. Mute yourself when not speaking.
-1. Keep your video on for the entire session. It is okay to turn off your video for a little if you need a short break or experiencing bandwidth issues.
+1. Keep your video on for the entire session. It is okay to turn off your video for a little while if you need a short break or experiencing bandwidth issues.
 1. Present yourself in a professional manner, including posture, clothing, and background.
 1. Be in a quiet, distraction-free, environment consistent with learning. Environments that are not consistent with learning: walking, driving, or public spaces.
 1. Do not eat during class.
