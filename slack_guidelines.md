@@ -3,7 +3,7 @@ A User Guide for Brian on Slack
 
 Helpful suggestions:
 
-- Please send complete messages. All information should be in a single message. I appreciate seeing and responding in a single pass.
+- Please send complete messages. All information should be in a single message. I appreciate seeing and responding in a single pass. #[no_hello](https://www.nohello.com/)  
 - It is preferable to send a [multi-line message](https://www.wikihow.com/Enter-Multiple-Lines-on-Slack-on-PC-or-Mac) rather than a series of single line messages.
 - Please [format your messages](https://slack.com/help/articles/202288908-Format-your-messages).
 - Slack is not text messaging, thus:
