@@ -7,7 +7,7 @@ Appropriate classroom behavior is expected. If you won't do it in a physical cla
 1. Be respectful.
 1. Show up on time. 
 1. Remain fully present for the entire session.
-1. Your displayed name should be your full preferred name.
+1. Your displayed name should be your full, preferred name.
 1. Mute yourself when not speaking.
 1. Keep your video on for the entire session. It is okay to turn off your video for a little while if you need a short break or experiencing bandwidth issues.
 1. Present yourself in a professional manner, including posture, clothing, and background.
